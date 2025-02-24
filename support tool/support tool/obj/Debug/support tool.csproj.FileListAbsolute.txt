@@ -1,0 +1,12 @@
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\bin\Debug\support tool.exe.config
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\bin\Debug\support tool.exe
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\bin\Debug\support tool.pdb
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\bin\Debug\Guna.UI2.dll
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support tool.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support_tool.Form1.resources
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support_tool.Properties.Resources.resources
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support tool.csproj.GenerateResource.cache
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support tool.csproj.CoreCompileInputs.cache
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support .148B8135.Up2Date
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support tool.exe
+C:\Users\domin\Desktop\tyhealed\support tool\support tool\obj\Debug\support tool.pdb
